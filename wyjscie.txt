@@ -1,0 +1,8 @@
+[
+{string:aba,palindrom:TAK},
+{string:bccca,palindrom:NIE},
+{string:abba,palindrom:TAK},
+{string:bbbb,palindrom:TAK},
+{string:aaaa,palindrom:TAK},
+{string:1221,palindrom:TAK},
+]
